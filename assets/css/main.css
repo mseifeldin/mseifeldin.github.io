@@ -71,6 +71,11 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+}
+.offpage {
+    position: absolute;
+    left: -1000px;
+}
 
 /* Basic */
 
